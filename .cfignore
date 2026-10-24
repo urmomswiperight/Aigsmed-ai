@@ -1,0 +1,6 @@
+# Cloudflare Pages Ignore
+.next
+.next/cache
+.next/cache/**
+node_modules
+.git
